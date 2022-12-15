@@ -1,0 +1,89 @@
+Datatypes
+-----------------------------
+
+integer-------------number
+character------------Alphabets
+String--------------word
+
+
+
+int		1	2	3
+char		'A'
+String		"Nimisha"
+double/float	2.3	6.3
+
+
+
+Strictly Typed PL
+---------------------
+int num;
+num=10;
+	Ex: C,JAVA
+
+
+Statically Typed PL
+----------------------------
+var n=10;#integer
+n="NIMISHA" #error
+n=20
+
+	Ex:Scala
+
+
+Dynamically Typed PL
+-------------------------
+num=10 #integer
+name="Nimisha"
+
+	Ex: Python
+
+
+Python
+-------------
+1991
+Guido Van Rossum
+
+
+Applications of Python
+---------------------------
+Web Application
+Machine Learning
+Datascience
+AI
+Networking
+
+
+
+Web Application
+----------------------------
+Frontend	:	viewed by user---user interface
+			HTML,CSS,JS,BOOTSTRAP,Angular JS,React JS
+			Ex: Fb registration page
+
+Backend		:	Datastore-----database---mysql,mongodb,postgresql,sqlite
+			Processing----Programming languages-----C,C++,JAVA,Python
+
+
+Django---python framework
+
+
+System Requirements
+-------------------------------
+Python 3.*
+OS: Ubuntu 18,Windows 10 or above
+IDE:Pycharm,Anaconda,Jupiter Notebook
+
+
+
+To check Python Version
+
+python --version
+
+
+Task
+-----------------
+Python Install
+Pycharm Install
+Github install
+
+

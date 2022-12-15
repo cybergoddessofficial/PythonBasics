@@ -1,0 +1,88 @@
+print() is used to display message on console
+identifier
+--------------------------------------------
+name
+
+ex: variable name
+
+num=10
+
+num------------variable
+10-------------value
+
+num---type---integer
+num=2---binary value(machines/computer--01001 )---memory location store-----variables
+0 1
+
+
+python extension------------- .py
+
+
+a=10
+b=20
+
+# before swapping
+#-----------------------
+# a=10
+# b=20
+#------------------------
+# after swapping
+#------------------------------
+# a=20
+# b=10
+
+c=a#10
+a=b #20
+b=c #10
+
+
+1.swap using 3rd variable
+2.swap without using 3rd variable
+
+
+#
+# a=10
+# b=20
+#
+#
+# a=a+b 10+20=30
+# b=a-b  30-20=10
+# a=a-b  30-10=20
+#
+# a=20
+# b=10
+
+
+
+Task
+-------------------------
+Ques 1: Display follow bio data
+
+
+BIO-DATA
+--------------------------------------
+name	:	rahul
+age	:	25
+address	:	Rahul villa,kozhikode
+location:	Kozhikode
+--------------------------------------
+Education
+--------------------------------------
+Degree	:	MCA
+--------------------------------------
+Experience
+--------------------------------------
+Software Engineer
+--------------------------------------
+
+
+
+NB: you've assign values to name,age,address,location and degree
+
+
+
+Ques 2: Swap two numbers using 3rd variable
+Ques 3: Swap two numbers without using 3rd variable
+
+
+

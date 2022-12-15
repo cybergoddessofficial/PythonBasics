@@ -1,0 +1,23 @@
+input() -----------------read values from console/keyboard
+string value
+a=10
+b=20
+c="10"+"20"
+
+concat--join two strings---- +
+1020
+
+int()-------------------to convert value into integer
+
+
+
+Arithmetic Operators
+=============================================
+Addition                +
+Subtraction             -
+Multiplication          *
+Division                /
+Modulus                 %
+Floor division          //
+Exponential or power    **
+
