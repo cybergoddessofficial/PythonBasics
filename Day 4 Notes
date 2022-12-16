@@ -1,14 +1,91 @@
+print()
+input()
+int()
+Arithmetic operators
+Logical Operators
+------------------------
+&&  AND
+||  OR
+!   NOT
 
-Flow Control Statements
-===============================================
-1.Decision Making Statement
+
+
+
+
+
+
+Flow control statements
+----------------------------------------
+1.Decision Making statments
 ------------------------------------------
-    if
-    if..else
-    if..elif..else
+-to check condition
+
+if statement
+--------------
+Syntax:
+	if(condition):
+		statements...
+
+Example:
+	age=int(input("Enter your age")) #2
+	if(age>=18):
+		print("you're eligible to vote")
+
+
+if..else
+--------------------------
+Syntax:
+
+    if(condition):
+        statement/ body of if
+    else:
+        statements/ body of else
+
+
+if..elif..else
+---------------------------------
+Syntax:
+    if(condition):
+        statements/body of if
+    elif(condidtion):
+        statemnts/body of elif
+    elif(condidtion):
+        statemnts/body of elif
+    elif(condidtion):
+        statemnts/body of elif
+    elif(condidtion):
+        statemnts/body of elif
+    else:
+        statments
+
+
+
+
 
 2.Looping Statements
 ----------------------------------------
-    while
+iteration/loop
+
+    while loop
+    -----------------
+    Syntax:
+        intitialize
+        while(condition):
+            while loop body
+            increment/decrement
+
+
     for
     do while
+
+
+
+
+
+
+
+
+
+
+
+
