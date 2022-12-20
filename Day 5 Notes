@@ -1,0 +1,75 @@
+For Loop
+-----------------------
+C,JAVA
+for(int i=0;i<=10;i++)
+{
+    printf("hello")
+}
+
+Python
+
+for i in range(0,10):
+    print(i)
+
+
+Jumping Statements
+---------------------
+break - exit from loop
+continue - skip the current iteration
+
+
+Functions & Modules
+---------------------------------
+
+methods or functions
+1.pre defined functions
+
+print()
+int() - typecast to int
+input()
+
+2. user defined functions
+
+Syntax:
+
+def function_name(arg1,agr2...arg n):
+    function_definition/body
+
+
+
+function with parameters
+function without pararmeters
+function without return value
+function with return values
+
+
+Modules
+--------------------
+single python file
+
+import module
+from..import module
+
+
+package-collection of modules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task
+----------------
+1.print all prime nos between  lower,upper limits
+2.print sum of odd & even no bw limits
+
+
