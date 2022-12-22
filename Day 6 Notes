@@ -1,0 +1,45 @@
+Python Collections
+----------------------------
+List
+Set
+Tuple
+Dictionary
+
+%   Modulus Operator    /   Mod
+==  Equals
+=   Assignment
+**  Exponential /   power operator
+
+How to define?
+different types of data??
+duplicate values??
+update or mutable?
+insertion order ?
+
+List
+----------------------------------
+variablename=[]
+a=[1,2,3,6,5]
+we can define empty list    :   list()
+we can store duplicate values
+list is mutable
+insertion order is same
+we can store different type of data
+
+Task:
+1.find sum of even & odd no from list
+2.
+input   :   2   3   5
+output  :   8   7   5
+3.Binary Search using list in python
+4.find pairs 6(2,4)
+
+
+
+
+
+
+
+
+
+
